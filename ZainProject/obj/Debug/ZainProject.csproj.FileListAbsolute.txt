@@ -1,0 +1,5 @@
+C:\Users\ZhuMe\source\repos\ZainProject\CommonProject\ZainProject\bin\Debug\ZainProject.dll
+C:\Users\ZhuMe\source\repos\ZainProject\CommonProject\ZainProject\bin\Debug\ZainProject.pdb
+C:\Users\ZhuMe\source\repos\ZainProject\CommonProject\ZainProject\obj\Debug\ZainProject.csproj.CoreCompileInputs.cache
+C:\Users\ZhuMe\source\repos\ZainProject\CommonProject\ZainProject\obj\Debug\ZainProject.dll
+C:\Users\ZhuMe\source\repos\ZainProject\CommonProject\ZainProject\obj\Debug\ZainProject.pdb
